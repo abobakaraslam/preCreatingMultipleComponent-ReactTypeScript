@@ -1,8 +1,4 @@
-# React Application with integrated Tailwind CSS
-
-You can use below link to know how to create this app
-
-https://abobakar.kesug.com/courses/tailwind-css/integration-react-tailwind/
+# Starting application for another Repository i.e., CreatingMultipleComponents
 
 **How to Run:**
 
